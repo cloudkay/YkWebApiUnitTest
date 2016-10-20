@@ -6,7 +6,7 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 namespace YkWebApiUnitTest.Test
 {
     [TestClass]
-    public class YkSocietyHobbyTest: ApiTestBase
+    public class YkDemoTest: ApiTestBase
     {
 
         [TestMethod]
